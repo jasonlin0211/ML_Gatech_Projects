@@ -1,0 +1,3 @@
+# 2022 CS 7641 Project collections
+
+This repository contains my source codes and analysis in the CS 7641 Machine Learning course. According to the professor's statement, it is permitted to reuse the code from Internet, and therefore please feel free to use any codes that you think might be useful for your development. But please keep in mind that the analysis is the most important part in this course's grading criteria, and for those who are taking CS 7641, please spend more efforts on creating your analysis.
